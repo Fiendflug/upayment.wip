@@ -1,0 +1,11 @@
+db.sqlite3
+*.csv
+*.pyc
+.idea/
+.media/
+.vscode/settings.json
+__pycache__/
+UPayment_Django/__pycache__/urls.cpython-36.pyc
+upayment/__pycache__/admin.cpython-36.pyc
+upayment/__pycache__/views.cpython-36.pyc
+.vscode/settings.json
